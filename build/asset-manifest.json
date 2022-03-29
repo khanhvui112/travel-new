@@ -1,28 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.f47c4bac.chunk.css",
-    "main.js": "/static/js/main.d6c6f871.chunk.js",
-    "main.js.map": "/static/js/main.d6c6f871.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ec78a81e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ec78a81e.js.map",
-    "static/css/2.9e1f5627.chunk.css": "/static/css/2.9e1f5627.chunk.css",
-    "static/js/2.95f2adac.chunk.js": "/static/js/2.95f2adac.chunk.js",
-    "static/js/2.95f2adac.chunk.js.map": "/static/js/2.95f2adac.chunk.js.map",
-    "static/js/3.f6ffb0ad.chunk.js": "/static/js/3.f6ffb0ad.chunk.js",
-    "static/js/3.f6ffb0ad.chunk.js.map": "/static/js/3.f6ffb0ad.chunk.js.map",
+    "main.css": "/static/css/main.7cad2576.css",
+    "main.js": "/static/js/main.17594f42.js",
+    "static/js/787.782aeef2.chunk.js": "/static/js/787.782aeef2.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/anh2.jpg": "/static/media/anh2.1c3810c66438c03ea3bc.jpg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/index.html",
-    "static/css/2.9e1f5627.chunk.css.map": "/static/css/2.9e1f5627.chunk.css.map",
-    "static/css/main.f47c4bac.chunk.css.map": "/static/css/main.f47c4bac.chunk.css.map",
-    "static/js/2.95f2adac.chunk.js.LICENSE.txt": "/static/js/2.95f2adac.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/anh2.1c3810c6.jpg",
-    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "main.7cad2576.css.map": "/static/css/main.7cad2576.css.map",
+    "main.17594f42.js.map": "/static/js/main.17594f42.js.map",
+    "787.782aeef2.chunk.js.map": "/static/js/787.782aeef2.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec78a81e.js",
-    "static/css/2.9e1f5627.chunk.css",
-    "static/js/2.95f2adac.chunk.js",
-    "static/css/main.f47c4bac.chunk.css",
-    "static/js/main.d6c6f871.chunk.js"
+    "static/css/main.7cad2576.css",
+    "static/js/main.17594f42.js"
   ]
 }
